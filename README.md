@@ -1,4 +1,4 @@
-# The Cooky -  Clone Project
+# The Cooky 
 
 
 
